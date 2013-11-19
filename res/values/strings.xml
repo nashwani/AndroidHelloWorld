@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblQuestion">Enter Text</string>
+    <string name="lblOpenDialog">Open Dialog</string>
+    <string name="lblOpenActivity">Open Activity</string>
+    <string name="lblOK">OK</string>
+    <string name="lblInput">Input</string>
+    <string name="lblDialogTitle">Dialog Test</string>
+    <string name="title_activity_child">Child Activity</string>
+    <string name="lblClose">Close Me</string>
+
+</resources>
